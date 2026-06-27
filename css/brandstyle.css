@@ -1,9 +1,11 @@
+
 h4{
     text-align : center;
     color : brown;
     background-color : darkturquoise;
 }
 body {
-    background-color : antiquewhite;
-        text-align : center;
+    background-color: antiquewhite;
+    text-align: center;
+    overflow-x: hidden;
 }

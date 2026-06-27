@@ -1,5 +1,7 @@
+
 body {
     background-color: mistyrose;
+    overflow-x: hidden;
 }
 .h4{
     text-align:center;

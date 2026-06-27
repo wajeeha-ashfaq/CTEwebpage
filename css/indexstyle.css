@@ -1,5 +1,7 @@
-body{
+
+body {
     background-color: beige;
+    overflow-x: hidden;
 }
 .header{
     color:black;
