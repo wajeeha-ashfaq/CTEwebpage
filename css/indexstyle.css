@@ -1,0 +1,30 @@
+body{
+    background-color: beige;
+}
+.header{
+    color:black;
+    background-color:darkgrey;
+    text-align:center;
+}
+.footer {
+    color: black;
+    background-color: darkgrey;
+    text-align: center;
+}
+.nav {
+    color: brown;
+    background-color:lavender;
+    text-align: center;
+}
+.h3 {
+    color: darkblue;
+    background-color: peachpuff;
+    text-align: center;
+}
+.iimg{
+    text-align:center;
+    background-color:aliceblue;
+}
+.iwelcome{
+    text-align:center;
+}
